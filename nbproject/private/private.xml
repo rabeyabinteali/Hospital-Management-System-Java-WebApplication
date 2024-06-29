@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/src/java/Servelets/Registration.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/src/java/Servelets/Login.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/web/UserHomeNurse.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/web/SeeAppointment.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/src/java/Servelets/AppointmentUpdate.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/web/UserHomeReceiption.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/web/Registrationpage.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/src/java/Servelets/Createappointment.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/src/java/Database/Patient.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/src/java/Database/MedicineInfo.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/src/java/Database/EmployeeDatabase.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/src/java/Database/LoadingInformation.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/web/CreateAppointment.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/web/SeePatient.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/src/java/Servelets/UserHome.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/src/java/Servelets/MedicineUpdate.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/src/java/Database/Appointment.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/src/java/Database/EmployeeTable.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/web/UserHomeDoctor.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/src/java/Servelets/Logout.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/src/java/Database/PatientTable.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/web/DoctorAppointments.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/web/SeeMedicines.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/HMTrial/src/java/Servelets/PatientUpdate.java</file>
+        </group>
+    </open-files>
+</project-private>
