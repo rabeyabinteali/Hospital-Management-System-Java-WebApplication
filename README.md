@@ -4,7 +4,7 @@ Welcome to Hospital Management System Web Project developed using Java. The main
 #### Login Page
 ![LoginPage](test/ScreenShot/LoginPage.jpg)
 #### Registration Page
-![LoginPage](test/ScreenShot/Registration.jpg)
+![LoginPage](test/ScreenShot/RegistrationPage.jpg)
 #### Home Page
 Receptionist Home Page
 ![LoginPage](test/ScreenShot/ReceptionistHome.jpg)
@@ -15,6 +15,10 @@ Nurse Home Page
 ![LoginPage](test/ScreenShot/NurseHomePage.jpg)
 ![LoginPage](test/ScreenShot/NurseHomePage2.jpg)
 #### Creating Appointment
+Receiptionist Creates The Appointment
 ![LoginPage](test/ScreenShot/CreateAppointment.jpg)
 ![LoginPage](test/ScreenShot/CreateAppointmentfill.jpg)
+#### Patient Treatment
+Doctor Receives Patient information from the Receiptionist and updates treatment.
+![LoginPage](test/ScreenShot/PatientReport.jpg)
 
